@@ -1,0 +1,4 @@
+pandas
+selenium
+beautifulsoup4
+chromedriver==91.0.4472.101
