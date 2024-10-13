@@ -23,7 +23,7 @@ To run this project, ensure you have the following installed on your system:
 ### 1. Clone the Repository
 Start by cloning this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/LinkedIn-Automation.git
+git clone https://github.com/nihalnihalani/LinkedIn-Automation.git
 ```
 
 ### 2. Install Dependencies
